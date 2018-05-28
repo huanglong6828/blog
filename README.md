@@ -6,7 +6,7 @@
 ## [Vue](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=vue)
 1. [Vue后台管理系统之 视图、按钮、路由权限](https://github.com/huanglong6828/blog/issues/1)
 
-2. [Vue后台管理系统之 多端打包环境配置]()
+2. [Vue后台管理系统之 多端打包环境配置](https://github.com/huanglong6828/blog/issues/2)
 
 
 <!-- ## [JavaScript](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=JavaScript)
