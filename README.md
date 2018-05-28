@@ -9,11 +9,11 @@
 2. [Vue后台管理系统之 多端打包环境配置]()
 
 
-## [JavaScript](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=JavaScript)
+<!-- ## [JavaScript](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=JavaScript)
 
 
-## [HTML](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=HTML)
+## [HTML](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=HTML) -->
 
 
-## [微信小程序](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=wxapp)
-1. [微信小程序之wepy骨架搭建]()
+<!-- ## [微信小程序](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=wxapp)
+1. [微信小程序之wepy骨架搭建]() -->
