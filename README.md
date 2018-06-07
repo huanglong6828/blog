@@ -10,6 +10,7 @@
 
 ## [Nodejs](https://github.com/huanglong6828/blog/issues?q=is%3Aissue+is%3Aopen+label%3ANodejs)
 1. [express+socket.io=通讯服务器搭建（一）](https://github.com/huanglong6828/blog/issues/3)
+1. [express+socket.io=通讯服务器搭建（终）](https://github.com/huanglong6828/blog/issues/4)
 
 
 <!-- ## [JavaScript](https://github.com/huanglong6828/blog/issues?utf8=%E2%9C%93&q=JavaScript)
